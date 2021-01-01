@@ -2,8 +2,20 @@
 
 <h1  align='center'> Hi👋</h1>
 
-<p align='center'> My profile </p>
+<p align='center'>This is my profile</p>
 
 
 <p align='center'>I'm Pais (15 y.o)! </p>
+
+<p align='center'>I live in Pekanbaru, Indonesia</p>
+
+<p align='center'>
+   <a href="https://instagram.com/mfa_daffa"><img height="30" src="https://github.com/Paiiss/Pais/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+</P>
+
+:I'm studying the program language:
+- Javascript
+- Html
+
+<p align='center'>I am still a beginner to become a programmer</p>
 
