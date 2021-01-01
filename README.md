@@ -11,11 +11,13 @@
 
 <p align='center'>
    <a href="https://instagram.com/mfa_daffa"><img height="30" src="https://github.com/Paiiss/Pais/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://wa.me/6285805609094"><img height="30" src="https://github.com/Paiiss/Pais/blob/main/whatsapp.jpg?raw=true"></a>&nbsp;&nbsp;
+
 </P>
 
-:I'm studying the program language:
+I'm currently learning:
 - Javascript
 - Html
 
-<p align='center'>I am still a beginner to become a programmer</p>
+I am still a beginner to become a programmer
 
