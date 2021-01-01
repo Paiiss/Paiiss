@@ -23,3 +23,7 @@ I am still a beginner to become a programmer
 
 now i want to make a bot:star:
 
+
+
+![Pais github stats](https://github-readme-stats.vercel.app/api?username=Paiiss&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paiiss&count_private=true&show_icons=true&theme=tokyonight)
