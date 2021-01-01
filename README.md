@@ -21,3 +21,5 @@ I'm currently learning:
 
 I am still a beginner to become a programmer
 
+now i want to make a bot:star:
+
