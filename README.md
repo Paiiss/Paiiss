@@ -1,4 +1,4 @@
-<p align='center'><a href="https://github.com/Paiiss"><img height="200" src="https://github.com/Paiiss/Pais/blob/main/pais.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://github.com/Paiiss"><img height="200" src="https://avatars.githubusercontent.com/u/76656826?v=4"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi👋</h1>
 
