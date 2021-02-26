@@ -17,7 +17,6 @@
 
 I'm currently learning:
 - Javascript
-- Html
 
 I am still a beginner to become a programmer
 
