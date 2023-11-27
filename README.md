@@ -7,6 +7,7 @@
 </div>
 
 I'm a beginner programmer and I still have a lot to learn, my enthusiasm and determination are still burning to learn:star:
-
+<div align="center">
 ![Paiiss's Stats](https://github-readme-stats.vercel.app/api?username=Paiiss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Paiiss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paiiss&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
