@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I am currently interning at Pekanbaru Communications and Information Technology<br>- 📚 I'm currently learning PHP & Laravel<br>- ⚡ In my free time, I still code<br>- 🏫 Student at one of the campuses in Pekanbaru (2023)</p>
+<p align="left">- 🔭 I am currently interning at Pekanbaru Communications and Information Technology<br>- 📚 I'm currently learning PHP & Laravel<br>- ⚡ In my free time, I still code<br>- 🏫 Student at one of the campuses in Pekanbaru (since 2023)</p>
 
 ###
 
