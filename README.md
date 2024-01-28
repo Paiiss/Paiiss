@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I am currently interning at Pekanbaru Communications and Information Technology<br>- 📚 I'm currently learning PHP & Laravel<br>- ⚡ In my free time, I still code</p>
+<p align="left">- 🔭 I am currently interning at Pekanbaru Communications and Information Technology<br>- 📚 I'm currently learning PHP & Laravel<br>- ⚡ In my free time, I still code<br>- 🏫 Student at one of the campuses in Pekanbaru (2023)</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
