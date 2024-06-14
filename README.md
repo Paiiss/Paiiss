@@ -20,13 +20,13 @@
   <img src="https://lanyard.cnrad.dev/api/762992235385716756?theme=dark&bg=181818&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Currently%20doing%20activities%20outside...&showDisplayName=true" height="150" alt="languages graph"  />
 </div>
 
-###
+<!-- ### -->
 
-<h3 align="left">🛠 Language and tools</h3>
+<!-- <h3 align="left">🛠 Language and tools</h3> -->
 
-###
+<!-- ### -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -105,13 +105,13 @@
   <a href="https://www.linkedin.com/in/muhammad-fais-avriody-daffa-30b243236/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/Paissse"> 
+  <a href="https://t.me/Paissse">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
   <a href="https://ko-fi.com/paiss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
   </a>
-</div>
+</div> -->
 
 ###
 
