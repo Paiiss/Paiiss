@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 Currently I am still studying JavaScript and Typescript<br>- 📚 I'm currently learning React & NextJs<br>- ⚡ In my free time, I still code<br>- 🏫 Student at one of the campuses</p>
+<p align="left">- 🔭 Currently I am still studying JavaScript and Typescript<br>- 📚 I'm currently learning Flutter<br>- ⚡ In my free time, I still code<br>- 🏫 Student at one of the campuses</p>
 
 ###
 
