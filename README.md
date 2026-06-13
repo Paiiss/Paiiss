@@ -63,11 +63,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-Total Time: 0 secs
+Total Time: 5 hrs 5 mins
 
-No activity tracked
+TypeScript   2 hrs 19 mins         >>>>>>>>>>>--------------   45.13 %
+Markdown     1 hr 6 mins           >>>>>--------------------   21.52 %
+YAML         48 mins               >>>>---------------------   15.56 %
+Bash         36 mins               >>>----------------------   11.74 %
+JSON         9 mins                >------------------------   03.19 %
+Docker       4 mins                -------------------------   01.32 %
+Other        3 mins                -------------------------   01.04 %
+CSS          1 min                 -------------------------   00.43 %
 ```
 
 <!--END_SECTION:waka-->
