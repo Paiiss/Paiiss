@@ -63,18 +63,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2026 - To: 07 September 2026
+From: 01 September 2026 - To: 08 September 2026
 
-Total Time: 21 hrs 17 mins
+Total Time: 15 hrs 15 mins
 
-TypeScript     17 hrs 2 mins         >>>>>>>>>>>>>>>>>>>>-----   78.32 %
-Markdown       1 hr 8 mins           >------------------------   05.21 %
-Text           1 hr 2 mins           >------------------------   04.81 %
-JSON           38 mins               >------------------------   02.94 %
-Other          29 mins               >------------------------   02.23 %
-Bash           24 mins               -------------------------   01.91 %
-CSS            23 mins               -------------------------   01.79 %
-SSH Config     13 mins               -------------------------   01.05 %
+TypeScript     12 hrs 33 mins        >>>>>>>>>>>>>>>>>>>>-----   80.50 %
+Markdown       47 mins               >------------------------   05.10 %
+Text           44 mins               >------------------------   04.80 %
+Bash           25 mins               >------------------------   02.68 %
+Other          20 mins               >------------------------   02.17 %
+CSS            14 mins               -------------------------   01.52 %
+SSH Config     13 mins               -------------------------   01.47 %
+Image (png)    4 mins                -------------------------   00.52 %
 ```
 
 <!--END_SECTION:waka-->
