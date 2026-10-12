@@ -63,18 +63,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2026 - To: 10 October 2026
+From: 04 October 2026 - To: 11 October 2026
 
-Total Time: 5 hrs 49 mins
+Total Time: 5 hrs 43 mins
 
-TypeScript     4 hrs 43 mins         >>>>>>>>>>>>>>>>>>-------   71.97 %
-Other          44 mins               >>>----------------------   11.39 %
-Text           19 mins               >------------------------   05.02 %
-HTML           13 mins               >------------------------   03.51 %
-Astro          8 mins                >------------------------   02.20 %
-Markdown       6 mins                -------------------------   01.67 %
-JavaScript     6 mins                -------------------------   01.64 %
-Image (jpeg)   4 mins                -------------------------   01.25 %
+TypeScript   4 hrs 56 mins         >>>>>>>>>>>>>>>>>>>>-----   79.31 %
+Other        30 mins               >>-----------------------   08.22 %
+HTML         13 mins               >------------------------   03.70 %
+Astro        8 mins                >------------------------   02.32 %
+Text         8 mins                >------------------------   02.31 %
+JavaScript   6 mins                -------------------------   01.75 %
+JSON         4 mins                -------------------------   01.27 %
+CSS          2 mins                -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
