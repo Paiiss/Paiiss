@@ -63,18 +63,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2026 - To: 15 October 2026
+From: 09 October 2026 - To: 16 October 2026
 
-Total Time: 5 hrs 8 mins
+Total Time: 4 hrs 54 mins
 
-TypeScript   4 hrs 41 mins         >>>>>>>>>>>>>>>>>>>>>>>--   90.17 %
-Text         14 mins               >------------------------   04.74 %
-JSON         4 mins                -------------------------   01.59 %
-SSH Config   4 mins                -------------------------   01.39 %
-Other        3 mins                -------------------------   01.06 %
-JavaScript   2 mins                -------------------------   00.73 %
+TypeScript   4 hrs 28 mins         >>>>>>>>>>>>>>>>>>>>>>---   89.58 %
+Text         14 mins               >------------------------   04.80 %
+JSON         4 mins                -------------------------   01.66 %
+SSH Config   4 mins                -------------------------   01.45 %
+Other        4 mins                -------------------------   01.43 %
+JavaScript   2 mins                -------------------------   00.74 %
 Git Config   0 secs                -------------------------   00.10 %
-TSConfig     0 secs                -------------------------   00.08 %
+TSConfig     0 secs                -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
